@@ -1,6 +1,7 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
+//подключаем все необходимые для работы библиотеки
 #include <QMainWindow>
 #include <QGraphicsView>
 #include <QTimer>

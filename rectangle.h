@@ -2,7 +2,7 @@
 #define RECTANGLE_H
 
 #include "shape.h"
-
+//: public Shape обозначает, что мы наследуем от этого класса его публичные методы
 class Rectangle : public Shape
 {
 public:

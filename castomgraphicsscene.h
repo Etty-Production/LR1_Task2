@@ -1,6 +1,7 @@
 #ifndef CASTOMGRAPHICSSCENE_H
 #define CASTOMGRAPHICSSCENE_H
 
+//подключаем все необходимые для работы библиотеки
 #include <QGraphicsItem>
 #include <QGraphicsScene>
 
